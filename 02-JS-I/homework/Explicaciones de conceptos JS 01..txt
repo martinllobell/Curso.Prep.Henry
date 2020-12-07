@@ -1,0 +1,9 @@
+Variable: Una variable es una forma de almacenar el valor de algo para utilizarlo más tarde en una operación.
+
+String: Un string es un bloque de texto el cual se ecribe entre  comillas '' "" .Cualquier texto entre comillas es considerado una string.
+
+Funciones: Una función es una operación que le indicás a la máquina que querés hacer, se inicia con la palabra function. Existen argumentos que se pueden agregar para llenar la función, como variables y la declaración return, la cual significa cerrar la operación con el valor con la que la hayamos acompañado.
+
+Declaraciones IF: Esto se entiende más bien como unos condicionales que imponemos en la operación para que dependiendo de la condición, no de un resultado u otro.
+
+Valores Booleanos: Son unos términos que representan el verdadero o falso en JS. 'true' o 'false')
