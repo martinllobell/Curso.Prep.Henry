@@ -1,0 +1,1 @@
+Arrays: Arrays o matrices son un elemento que nos sirve para almacenar colecciones de datos. Para llevarla a cabo se necesita declarar una variable y ponerla entre corchetes "[]" luego llenarla de tantas cadenas, números o booleanos como queramos.
