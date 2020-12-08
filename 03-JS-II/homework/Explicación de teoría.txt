@@ -1,0 +1,3 @@
+For: Es una expresión de bucle de javascript, se hace con 3 declaraciones: una variable, una expresión condicional y el operador++
+
+Operadores lógicos: '&&' significa una conexión entre 2 delaraciones ( y...). '||' significa una declaración U otra ( o...). '!' Significa negación a la delcaración ( no...)
