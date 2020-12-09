@@ -1,0 +1,9 @@
+Objetos: Los objetos, al igual que los arrays son contenedores de mucha información, aunque a diferencia de ellos, éstos concentran esa información en una sola cosa. Se instancian utilizando llaves '{}'.
+
+Propiedades: Son todos aquellos datos que nosotros pongamos en nuestro objeto, son la palabra clave (key) que utilizamos para llamar a esa propiedad del objeto, cada propiedad tiene su correspondiente valor.
+
+Métodos: Son las funciones que se encuentran guardadas dentro de un objeto. Se establece clave para un nombre y valor para la función.
+
+Bucle for... in: Cuando queramos iterar sobre cada una de las propiedades de un objeto se utiliza el bucle for in, es muy similar en sintaxis al que utilizabamos en las matrices al comienzo pero entre paréntisis declaramos una  una variable, la palabra clave in y el nombre del objeto. Esto lo que hará será recorrer todas las key:value y finalizará al haber iterado todas.
+
+Notación de puntos y notación de corchetes: Son 2 maneras diferentes de acceder a los valores llamando al nombre del objeto y la clave, Para la notación de puntos utilizaremos el nombre del objeto seguido de un punto y la clave, mientras que para la notacion de corchetes utilizaremos el nombre del objeto seguido de la clave entre corchetes y entre comillas.
